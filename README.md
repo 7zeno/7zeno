@@ -1,5 +1,6 @@
-## Hello I'm Zeno! <3👋
+## Hello I'm Zeno! <3
 
+ <img src="https://i.pinimg.com/1200x/7f/48/95/7f489515dac18efbf6bb3d60cfb3bdca.jpg"/>
 <!--
 **7zeno/7zeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
