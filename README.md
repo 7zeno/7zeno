@@ -1,6 +1,6 @@
 ## Hello I'm Zeno! <3
 
- <img src="https://i.pinimg.com/1200x/7f/48/95/7f489515dac18efbf6bb3d60cfb3bdca.jpg" width="1280" height="500"/>
+ <img src="https://i.pinimg.com/1200x/53/5b/c3/535bc3f443d724e781f19fc8eb850ddf.jpg"/>
 <!--
 **7zeno/7zeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
