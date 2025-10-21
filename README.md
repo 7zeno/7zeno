@@ -6,7 +6,7 @@
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,git,github,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,git,github,mysql,figma,mongodb&theme=dark)](https://skillicons.dev)
 
 <h2>Socials</h2>
 
